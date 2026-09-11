@@ -1,12 +1,8 @@
-# TARGET: today's build
+# TARGET: today’s build
 
-Choose the idea, person, interaction, and visual direction. The agent can help phrase and save your decisions after you approve them. The provided scope and review safeguards stay in place.
-
-- **Thing:** [My one-page website or mini-app and its main interaction.]
-- **Audience:** [One specific person, and what they want to do or understand.]
-- **Requirements:** One working primary interaction; selected states and results are understandable; honor my approved standing rule in AGENTS.md.
+- **Thing:** A one-page gluten-free dessert recipe guide where visitors choose a dessert, follow clear steps, and adjust ingredient quantities by serving size.
+- **Audience:** Beginning bakers who need approachable gluten-free desserts and want directions they can follow with confidence.
+- **Requirements:** One working primary interaction: selecting a recipe and changing its serving size updates every ingredient measurement. Each recipe has a visual, ingredient list, simple numbered directions, and the standing rule is visibly followed.
 - **Guardrails:** Static browser code. No required external service, keys, accounts, runtime AI, or private data. Label fictional or sample content. Preserve the example and publishing setup. Work on a branch and wait for human review before shipping.
-- **Experience:** [My visual reference or direction and the most important layout or interaction relationship.]
-- **Test:** I can complete the main action, check one boundary or factual claim, and point to my standing rule's effect in the actual preview. After I approve and merge, the same registered Pages URL works.
-
-The coastal example has a [completed TARGET](examples/coast/SPEC.md). It demonstrates the format, not a required topic.
+- **Experience:** Chic, clean, recipe-editorial styling with generous space, polished dessert visuals, clear type hierarchy, and the recipe details as the main focus.
+- **Test:** I can select a recipe, change servings, confirm each ingredient quantity updates with a unit, follow the numbered directions, and point to the original serving size remaining visible.
