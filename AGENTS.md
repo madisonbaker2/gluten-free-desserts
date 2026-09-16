@@ -19,7 +19,7 @@ After STOP 1, help the student propose and approve the six TARGET lines and one 
 
 ## My standing rule
 
-[One observable, student-approved rule that protects this project's purpose or experience.]
+Every recipe must show adjustable servings, update every ingredient quantity with a clear unit, and keep the original serving size visible.
 
 ## Workflow
 
